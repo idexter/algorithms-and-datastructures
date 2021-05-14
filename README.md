@@ -14,3 +14,5 @@ There are two reasons I hae made this repository:
 
 I think knowledge of algorithms and data structures is pretty useful, but at the same time a lot of companies overuse them on technical interviews.
 Especially when it happens due interview for senior and lead positions. Anyway. Enjoy the code, improve yourself and don't stop learn new things.
+
+NOTE: I don't have all tests from platforms described below, so I have made my own tests for some solutions.
