@@ -2,7 +2,7 @@
 
 ![test](https://github.com/idexter/algorithms-and-datastructures/workflows/test/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/idexter/algorithms-and-datastructures)](https://goreportcard.com/report/github.com/idexter/algorithms-and-datastructures)
-[![codecov](https://codecov.io/gh/idexter/algorithms-and-datastructures/branch/master/graph/badge.svg?token=LHA4hN5boC)](undefined)
+[![codecov](https://codecov.io/gh/idexter/algorithms-and-datastructures/branch/master/graph/badge.svg?token=LHA4hN5boC)](codecov)
 
 This repository stores my solutions for problems from sites like [LeetCode](https://leetcode.com), [HackerRank](https://hackerrank.com), etc.
 
