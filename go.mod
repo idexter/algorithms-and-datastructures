@@ -1,0 +1,1 @@
+module "github.com/idexter/algorithms-and-datastructures"
