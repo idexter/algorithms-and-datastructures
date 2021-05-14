@@ -1,4 +1,4 @@
-package linked_list
+package linkedlist
 
 // mergeTwoLists merges two sorted lists.
 // See: https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/
@@ -15,10 +15,9 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 		if l1.Val > l2.Val {
 			l2.Next = l1
 			return l2
-		} else {
-			l1.Next = l2
-			return l1
 		}
+		l1.Next = l2
+		return l1
 	}
 
 	first := 0

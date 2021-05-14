@@ -1,4 +1,4 @@
-package linked_list
+package linkedlist
 
 // removeNthFromEnd removes Nth node from end of Linked List.
 // See: https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/

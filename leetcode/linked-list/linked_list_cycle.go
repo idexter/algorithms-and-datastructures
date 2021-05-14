@@ -1,4 +1,4 @@
-package linked_list
+package linkedlist
 
 // hasCycle checks if list has cycle.
 // See: https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/

@@ -1,4 +1,4 @@
-package linked_list
+package linkedlist
 
 // ListNode describe LinkedList node.
 type ListNode struct {
