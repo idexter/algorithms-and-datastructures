@@ -16,3 +16,12 @@ I think knowledge of algorithms and data structures is pretty useful, but at the
 Especially when it happens due interview for senior and lead positions. Anyway. Enjoy the code, improve yourself and don't stop learn new things.
 
 NOTE: I don't have all tests from platforms described below, so I have made my own tests for some solutions.
+
+## Usage
+
+Just use default make target.
+It will run `golint` and tests:
+
+```bash
+make
+```
