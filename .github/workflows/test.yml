@@ -20,8 +20,8 @@ jobs:
 
       - name: Run tests (with coverage)
         run: |
-          go get github.com/axw/gocov/...
-          go get github.com/AlekSi/gocov-xml
+          go install github.com/axw/gocov/...
+          go install github.com/AlekSi/gocov-xml
           go mod tidy
           go test -race -covermode=atomic -coverprofile=coverage.txt ./...
           gocov convert coverage.txt | gocov-xml > coverage.xml
