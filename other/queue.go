@@ -1,5 +1,37 @@
 package other
 
+type Queue[T any] struct {
+	data []T
+}
+
+func (q *Queue[T]) Enqueue(value T) {
+	q.data = append(q.data, value)
+}
+
+func (q *Queue[T]) Dequeue() T {
+	if q.IsEmpty() {
+		var zeroVal T
+		return zeroVal
+	}
+	firstElement := 0
+	var value T = q.data[firstElement]
+	q.data = q.data[1:]
+	return value
+}
+
+func (q *Queue[T]) IsEmpty() bool {
+	return len(q.data) == 0
+}
+
+func (q *Queue[T]) Top() T {
+	if q.IsEmpty() {
+		var zeroVal T
+		return zeroVal
+	}
+	firstElement := 0
+	return q.data[firstElement]
+}
+
 type QueueOnStack[T any] struct {
 	OriginalStack *Stack[T]
 	InvertedStack *Stack[T]
