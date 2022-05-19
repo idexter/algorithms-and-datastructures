@@ -17,6 +17,17 @@ Especially when it happens due interview for senior and lead positions. Anyway. 
 
 NOTE: I don't have all tests from platforms described below, so I have made my own tests for some solutions.
 
+## Index
+
+### LeetCode
+
+- Introduction to Data Structure
+    - [Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/): [Solutions](./leetcode/explore/learn/card/fun-with-arrays)
+- Easy Collection
+    - [Top Interview Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/): [Solutions](./leetcode/explore/featured/card/top-interview-questions-easy)
+
+### HackerRank
+
 ## Usage
 
 Just use default make target.
