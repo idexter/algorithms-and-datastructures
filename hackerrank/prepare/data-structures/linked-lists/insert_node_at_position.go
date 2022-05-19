@@ -1,7 +1,8 @@
 package linkedlists
 
-// insertNodeAtPosition inserts node at position.
-// See: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
+// insertNodeAtPosition Problem: Insert a node at a specific position in a linked list.
+//
+// HackerRank: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
 func insertNodeAtPosition(list *SinglyLinkedListNode, data int32, position int32) *SinglyLinkedListNode {
 	first := list
 

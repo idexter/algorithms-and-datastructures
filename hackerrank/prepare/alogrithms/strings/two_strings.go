@@ -1,7 +1,8 @@
 package strings
 
-// twoStrings checks if strings share a common substring.
-// See: https://www.hackerrank.com/challenges/two-strings/problem
+// twoStrings Problem: Two Strings.
+//
+// HackerRank: https://www.hackerrank.com/challenges/two-strings/problem
 func twoStrings(s1 string, s2 string) string {
 
 	strMap := make(map[rune]struct{})

@@ -1,7 +1,8 @@
 package arrays
 
-// hourglassSum return the maximum hourglass sum.
-//See: https://www.hackerrank.com/challenges/2d-array/problem
+// hourglassSum Problem: 2D Array - DS.
+//
+// HackerRank: https://www.hackerrank.com/challenges/2d-array/problem
 func hourglassSum(arr [][]int32) int32 {
 
 	calcHourGlass := func(arr [][]int32, x, y int) int32 {

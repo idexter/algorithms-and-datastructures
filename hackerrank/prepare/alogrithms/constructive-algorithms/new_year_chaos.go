@@ -1,12 +1,13 @@
-package constructive
+package constructive_algorithms
 
 import (
 	"fmt"
 	"math"
 )
 
-// minimumBribes solves New year Chaos problem.
-// See: https://www.hackerrank.com/challenges/new-year-chaos/problem
+// minimumBribes Problem: New Year Chaos.
+//
+// HackerRank: https://www.hackerrank.com/challenges/new-year-chaos/problem
 func minimumBribes(q []int32) {
 	bribes := 0
 	for i := 0; i < len(q); i++ {

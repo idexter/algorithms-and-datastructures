@@ -1,9 +1,10 @@
-package hashtables
+package dictionaries_and_hashmaps
 
 import "fmt"
 
-// checkMagazine solves "Ransom Note" problem.
-// See: https://www.hackerrank.com/challenges/ctci-ransom-note/problem
+// checkMagazine Problem: Hash Tables: Ransom Note.
+//
+// HackerRank: https://www.hackerrank.com/challenges/ctci-ransom-note/problem
 func checkMagazine(magazine []string, note []string) {
 
 	words := len(note)

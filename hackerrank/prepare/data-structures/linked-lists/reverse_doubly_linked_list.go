@@ -1,7 +1,8 @@
 package linkedlists
 
-// reverse reverses DoublyLinkedListNode.
-// See: https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem
+// reverse Problem: Reverse a doubly linked list.
+//
+// HackerRank: https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem
 func reverse(head *DoublyLinkedListNode) *DoublyLinkedListNode {
 
 	if head.next == nil {
