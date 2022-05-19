@@ -22,9 +22,23 @@ NOTE: I don't have all tests from platforms described below, so I have made my o
 ### LeetCode
 
 - Introduction to Data Structure
-    - [Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/): [Solutions](./leetcode/explore/learn/card/fun-with-arrays)
+    - [Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/)
+      - [Introduction](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/) : [Solutions](./leetcode/explore/learn/card/fun-with-arrays/introduction.go)
+      - [Inserting Items Into an Array](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/) : [Solutions](./leetcode/explore/learn/card/fun-with-arrays/inserting_items_into_an_array.go)
+      - [Deleting Items From an Array](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/) : [Solutions](./leetcode/explore/learn/card/fun-with-arrays/deleting_items_from_an_array.go)
+      - [Searching for Items in an Array](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/) : [Solutions](./leetcode/explore/learn/card/fun-with-arrays/searching_for_items_in_an_array.go)
+      - [In-Place Operations](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/) : [Solutions](./leetcode/explore/learn/card/fun-with-arrays/in_place_operations.go)
+      - Conclusion
 - Easy Collection
-    - [Top Interview Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/): [Solutions](./leetcode/explore/featured/card/top-interview-questions-easy)
+    - [Top Interview Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
+      - [Array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/) : [Solutions](./leetcode/explore/featured/card/top-interview-questions-easy/array.go) 
+      - [Strings](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/) : [Solutions](./leetcode/explore/featured/card/top-interview-questions-easy/strings.go) 
+      - [Linked List](https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/) : [Solutions](./leetcode/explore/featured/card/top-interview-questions-easy/linked_list.go) 
+      - [Trees](https://leetcode.com/explore/featured/card/top-interview-questions-easy/94/trees/) : [Solutions](./leetcode/explore/featured/card/top-interview-questions-easy/trees.go) 
+      - [Sorting and Searching](https://leetcode.com/explore/featured/card/top-interview-questions-easy/96/sorting-and-searching/) : [Solutions](./leetcode/explore/featured/card/top-interview-questions-easy/sorting_and_searching.go) 
+      - Dynamic Programming
+      - [Design](https://leetcode.com/explore/featured/card/top-interview-questions-easy/98/design/) : [Solutions](./leetcode/explore/featured/card/top-interview-questions-easy/design.go) 
+      - [Math](https://leetcode.com/explore/featured/card/top-interview-questions-easy/102/math/) : [Solutions](./leetcode/explore/featured/card/top-interview-questions-easy/math.go) 
 
 ### HackerRank
 
