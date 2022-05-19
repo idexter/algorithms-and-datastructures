@@ -28,6 +28,26 @@ NOTE: I don't have all tests from platforms described below, so I have made my o
 
 ### HackerRank
 
+- Prepare
+  - Problem Solving
+    - [Algorithms](https://www.hackerrank.com/domains/algorithms)
+      - [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) : [Solution](./hackerrank/prepare/alogrithms/warm-up/solve_me_first.go) 
+      - [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) : [Solution](./hackerrank/prepare/alogrithms/warm-up/simple_array_sum.go) 
+      - [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) : [Solution](./hackerrank/prepare/alogrithms/strings/two_strings.go) 
+      - [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) : [Solution](./hackerrank/prepare/alogrithms/constructive-algorithms/new_year_chaos.go) 
+    - [Data Structures](https://www.hackerrank.com/domains/data-structures)
+      - [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) : [Solution](./hackerrank/prepare/data-structures/arrays/arrays_ds.go) 
+      - [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) : [Solution](./hackerrank/prepare/data-structures/arrays/arrays_ds_2d.go)
+      - [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) : [Solution](./hackerrank/prepare/data-structures/linked-lists/print_elements.go) 
+      - [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) : [Solution](./hackerrank/prepare/data-structures/linked-lists/insert_node_at_position.go)
+      - [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) : [Solution](./hackerrank/prepare/data-structures/linked-lists/reverse_doubly_linked_list.go)
+  - [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+    - [Dictionaries and Hash Maps](https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges)
+      - [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) : [Solution](./hackerrank/prepare/interview-preparation-kit/dictionaries-and-hashmaps/hash_table_ransom_note.go)
+      - [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) : [Solution](./hackerrank/prepare/alogrithms/strings/two_strings.go)
+    - [Arrays](https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges)
+      - [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) : [Solution](./hackerrank/prepare/data-structures/arrays/arrays_left_rotation.go)
+
 ## Usage
 
 Just use default make target.
