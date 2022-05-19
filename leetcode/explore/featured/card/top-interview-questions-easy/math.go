@@ -1,9 +1,10 @@
-package math
+package top_interview_questions_easy
 
 import "strconv"
 
-// fizzBuzz implements Fizz Buzz.
-// See: https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/
+// fizzBuzz Problem: Fizz Buzz.
+//
+// LeetCode: https://leetcode.com/explore/featured/card/top-interview-questions-easy/102/math/743/
 func fizzBuzz(n int) []string {
 	out := make([]string, n)
 	for i := 0; i < n; i++ {

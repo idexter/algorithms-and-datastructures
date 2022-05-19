@@ -22,5 +22,7 @@ func containsDuplicate(nums []int) bool {
 	return false
 }
 
-// removeDuplicates Problem: Remove Duplicates from Sorted Array.
-// See: https://github.com/idexter/algorithms-and-datastructures/leetcode/explore/learn/card/fun-with-arrays/deleting_items_from_an_array.go
+// Problem: Remove Duplicates from Sorted Array.
+//
+// LeetCode: https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/
+// See: https://github.com/idexter/algorithms-and-datastructures/tree/master/leetcode/explore/learn/card/fun-with-arrays/deleting_items_from_an_array.go

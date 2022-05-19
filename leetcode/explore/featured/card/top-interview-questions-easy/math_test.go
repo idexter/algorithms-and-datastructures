@@ -1,4 +1,4 @@
-package math
+package top_interview_questions_easy
 
 import (
 	"testing"

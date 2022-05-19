@@ -1,4 +1,4 @@
-package strings
+package top_interview_questions_easy
 
 import (
 	"testing"
