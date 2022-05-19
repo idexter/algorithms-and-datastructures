@@ -19,10 +19,10 @@ func reverseString(s []byte) {
 	}
 }
 
-// isPalindrome Problem: Valid Palindrome.
+// isPalindromeString Problem: Valid Palindrome.
 //
 // LeetCode: https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/
-func isPalindrome(s string) bool {
+func isPalindromeString(s string) bool {
 	str := strings.Map(func(r rune) rune {
 		if !unicode.IsLetter(r) && !unicode.IsDigit(r) {
 			return -1
